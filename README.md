@@ -5,6 +5,10 @@
 ### A. Definition of Bias in Cybersecurity
 Bias in cybersecurity refers to the systematic deviation from neutrality in threat detection, response, and prevention measures. It can manifest in various forms, including the preferential treatment of certain types of threats over others, or the unequal treatment of different user groups based on characteristics such as ethnicity, gender, or geographical location. Bias can originate from historical data, algorithmic design, or human judgment, and it has significant implications for the effectiveness and fairness of cybersecurity practices.
 
+![Surveillance privacy bias](img/surveillance_privacy_bias.png)
+
+![name_bias_neutralization](img/name_bias_neutralization.png)
+
 ### B. Importance of Addressing Bias
 Addressing bias in cybersecurity is crucial for several reasons. First, bias can compromise the effectiveness of security measures by causing false positives or false negatives, leading to missed threats or unnecessary alarms. Second, biased security practices can lead to the inefficient allocation of resources, focusing efforts on less relevant threats while neglecting more critical issues. Finally, bias can undermine user trust and damage the reputation of organizations, particularly if security measures are perceived as unfair or discriminatory.
 
