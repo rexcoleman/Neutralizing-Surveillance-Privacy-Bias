@@ -94,7 +94,14 @@ These accomplishments underscore the importance of pre-trained word vectors in n
 
 ![Surveillance privacy bias](img/surveillance_privacy_bias.png)
 
+*Figure 1: Surveillance privacy bias - This image illustrates the impact of bias in surveillance systems, highlighting how certain demographics may be disproportionately targeted or overlooked, leading to privacy concerns and unfair treatment.*
+
+### 5.2 Name Bias Neutralization
+
 ![name_bias_neutralization](img/name_bias_neutralization.png)
+
+*Figure 2: Name bias neutralization - This image demonstrates techniques to neutralize bias associated with names in datasets, showcasing the importance of fair representation and the reduction of discriminatory practices in data-driven systems.*
+
 
 
 ## 5. Conclusion
