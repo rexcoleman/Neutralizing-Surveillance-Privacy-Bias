@@ -121,6 +121,4 @@ Data scientists and cybersecurity professionals must remain vigilant in their ef
   - [Jeffrey Pennington, Richard Socher, and Christopher D. Manning](https://nlp.stanford.edu/projects)
 - **Courses**:
   - [Ng, A., Katanforoosh, K., & Mourri, Y. (n.d.). Sequence Models. DeepLearning.AI, Coursera.](https://www.coursera.org/learn/nlp-sequence-models)
-- **Industry Reports and Guidelines**: [List relevant industry reports and guidelines]
-- **Case Studies and Examples**: [Include any relevant case studies and examples]
 
