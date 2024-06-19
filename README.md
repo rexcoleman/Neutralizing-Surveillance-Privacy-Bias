@@ -6,7 +6,7 @@ Addressing bias in cybersecurity is essential to ensure effective threat detecti
 
 ![Surveillance privacy bias](img/surveillance_privacy_bias.png)
 
-*Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue are above the line and privacy related terms in orange are below the line.*
+*Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue tend to be above the line and privacy related terms in orange tend to be below the line.*
 
 ### 5.2 Name Bias Neutralization
 
