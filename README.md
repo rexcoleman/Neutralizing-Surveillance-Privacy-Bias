@@ -116,7 +116,8 @@ Data scientists and cybersecurity professionals must remain vigilant in their ef
 
 ## 6. References
 
-- **Academic Papers and Articles**: [List relevant academic papers and articles]
+- **Academic Papers and Articles**: ![Bolukbasi et al., 2016, Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
 - **Industry Reports and Guidelines**: [List relevant industry reports and guidelines]
 - **Case Studies and Examples**: [Include any relevant case studies and examples]
-
+Bolukbasi et al., 2016, Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
+The GloVe word embeddings were due to Jeffrey Pennington, Richard Socher, and Christopher D. Manning. (https://nlp.stanford.edu/projects/glove/)
