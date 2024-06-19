@@ -96,9 +96,6 @@ These accomplishments underscore the importance of pre-trained word vectors in n
 
 *Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue are above the line and privacy related terms in red are below the line.*
 
-
-*Figure 1: Surveillance privacy bias - This image illustrates the impact of bias in surveillance systems, highlighting how certain demographics may be disproportionately targeted or overlooked, leading to privacy concerns and unfair treatment.*
-
 ### 5.2 Name Bias Neutralization
 
 ![name_bias_neutralization](img/name_bias_neutralization.png)
