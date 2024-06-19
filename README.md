@@ -119,6 +119,8 @@ Data scientists and cybersecurity professionals must remain vigilant in their ef
 - **Academic Papers and Articles**:
   - [Bolukbasi et al., 2016, Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
   - [Jeffrey Pennington, Richard Socher, and Christopher D. Manning](https://nlp.stanford.edu/projects)
+- **Courses**:
+  - [Ng, A., Katanforoosh, K., & Mourri, Y. (n.d.). Sequence Models. DeepLearning.AI, Coursera.](https://www.coursera.org/learn/nlp-sequence-models)
 - **Industry Reports and Guidelines**: [List relevant industry reports and guidelines]
 - **Case Studies and Examples**: [Include any relevant case studies and examples]
 
