@@ -4,6 +4,16 @@
 
 Addressing bias in cybersecurity is essential to ensure effective threat detection, efficient resource allocation, and maintaining user trust. Bias in cybersecurity can originate from historical data, algorithmic design, or human judgment, leading to compromised security measures, inefficient use of resources, and damaged organizational reputation. Data scientists play a critical role in identifying and mitigating these biases through diverse and representative data collection, fairness-aware algorithms, and continuous model evaluation. This report outlines the importance of addressing bias in cybersecurity and provides a detailed summary of a project on operations with word vectors, highlighting its accomplishments and relevance to mitigating bias.
 
+![Surveillance privacy bias](img/surveillance_privacy_bias.png)
+
+*Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue are above the line and privacy related terms in orange are below the line.*
+
+### 5.2 Name Bias Neutralization
+
+![name_bias_neutralization](img/name_bias_neutralization.png)
+
+*Figure 2: Name bias neutralization - The before image on the left illustrates the impact of bias in surveillance systems, highlighting how certain demographics may be disproportionately targeted or overlooked, leading to privacy concerns and unfair treatment.  The after image on the right demonstrates how techniques to neutralize bias associated with names in datasets, can level the playing field.*
+
 ## Table of Contents
 1. [Introduction](#1-introduction)
    - [1.1 Definition of Bias in Cybersecurity](#11-definition-of-bias-in-cybersecurity)
@@ -89,16 +99,6 @@ The project applied word embeddings to solve analogy problems, exemplifying the 
 An optional exercise was provided to modify word embeddings to reduce gender bias. This task emphasized the significance of addressing bias in machine learning models, aligning with broader ethical considerations in data science.
 
 These accomplishments underscore the importance of pre-trained word vectors in natural language processing tasks and provide a practical framework for their application in cybersecurity data science to improve the detection and mitigation of biased threats.
-
-![Surveillance privacy bias](img/surveillance_privacy_bias.png)
-
-*Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue are above the line and privacy related terms in orange are below the line.*
-
-### 5.2 Name Bias Neutralization
-
-![name_bias_neutralization](img/name_bias_neutralization.png)
-
-*Figure 2: Name bias neutralization - The before image on the left illustrates the impact of bias in surveillance systems, highlighting how certain demographics may be disproportionately targeted or overlooked, leading to privacy concerns and unfair treatment.  The after image on the right demonstrates how techniques to neutralize bias associated with names in datasets, can level the playing field.*
 
 ## 5. Conclusion
 
